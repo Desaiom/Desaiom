@@ -83,23 +83,7 @@ I specialize in developing comprehensive, **full-stack solutions**. My strength 
 </table>
 
 </div>
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omgholap11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Om's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgholap11&theme=tokyonight&hide_border=true&background=0D1117" alt="Om's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgholap11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
-</div>
-
----
 
 
 ## 🤝 Connect With Me
