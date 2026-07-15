@@ -53,7 +53,7 @@ I specialize in developing comprehensive, **full-stack solutions**. My strength 
 
 ### 🏨 Wanderlust
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)](https://github.com/Desaiom/Wanderlust)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)](https://github.com/Desaiom/Hotel_Project)
 
 **A full-stack hotel listing and booking platform built with Node.js, Express.js, MongoDB, EJS, Cloudinary, and Mapbox. Features authentication, image uploads, reviews, interactive maps, and CRUD operations.**
 
